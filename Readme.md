@@ -42,7 +42,6 @@ AI Innovation Lab/
 ├── agents/
 │   ├── __init__.py
 │   ├── idea_generator.py      # Core agent handling prompt execution & response parsing
-│   ├── planner.py             # Planning routines
 │   └── reviewer.py            # Reviewing routines
 ├── prompts/
 │   └── idea_prompt.py         # System & structural prompt definitions for Gemini
